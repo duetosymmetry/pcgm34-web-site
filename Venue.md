@@ -14,21 +14,23 @@ image:
 # Venue
 
 The workshop will take place at the
-[Keck Institute for Space Studies](http://kiss.caltech.edu/) on the
-Caltech campus.
+[Cahill Center for Astronomy and Astrophysics](http://www.caltech.edu/content/cahill-center-astronomy-and-astrophysics-1) on the
+Caltech campus. Talks will be in the Hameetman Auditorium, at the ground floor of the Cahill building.
 
-[Keck Institute for Space Studies\\
-345 S. Michigan Ave.\\
-Pasadena, CA 91106](https://www.google.com/maps/place/Keck+Center/@34.1398309,-118.1276185,18z/data=!3m1!4b1!4m2!3m1!1s0x80c2c3585bd4f6df:0x449b9be97833191d)
+[Cahill Center for Astronomy and Astrophysics\\
+1216 E California Blvd,  91125\\
+Pasadena, CA 91125](https://www.google.com/maps/place/Cahill+Center+for+Astronomy+and+Astrophysics/@34.1356888,-118.1261064,15z/data=!4m2!3m1!1s0x0:0x53f2b4e67b2bc249?sa=X&ved=0ahUKEwihzsOnjdjWAhVX4GMKHbi5AOMQ_BIIiQEwDg)
 
-<figure>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5544.893113307159!2d-118.12848593804773!3d34.13695606002143!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x53f2b4e67b2bc249!2sCahill+Center+for+Astronomy+and+Astrophysics!5e0!3m2!1sen!2sus!4v1507159636507" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<!-- <figure>
 <a href="{{ site.url }}/images/keck-map.pdf">
 <img src="{{ site.url }}/images/keck-map.png" alt="Map of Keck center
 and surrounding buildings">
 </a>
 <figcaption><a href="{{ site.url }}/images/keck-map.pdf">Click to view map of Keck center and
 surrounding buildings</a></figcaption>
-</figure>
+</figure> -->
 
 # Parking at Caltech
 

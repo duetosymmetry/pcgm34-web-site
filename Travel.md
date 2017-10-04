@@ -14,6 +14,7 @@ If you will be flying into the area there are several ways to get to
 Pasadena.  Depending on where you will be staying may determine which
 mode of transportation is best for you. Several options include:
 
+* [Ride sharing services](#rideshare)
 * [Fly-Away Bus with Metro Rail](#fly-away)
 * [Shuttle Services](#shuttle)
 * [Rental Car](#rental)
@@ -22,6 +23,16 @@ mode of transportation is best for you. Several options include:
 We highly recommend you read more information about getting to the
 Pasadena area and moving around Los Angeles in the
 [Caltech Transit Guide](http://caltechbikelab.blogspot.com/p/transit-guide-to-la.html).
+
+<a name="rideshare" />
+**Ride sharing services**: Both [Uber](https://www.uber.com/airports/lax/) and
+  [Lyft](https://www.lyft.com/airports/lax) are now allowed to pick up and
+  drop off passenger at LAX. Go to the upper level (departures) at one of the
+  designated pick-up points (there's one per terminal). The price to a ride from
+  LAX to Caltech is roughly $30, but it depends on surge charges.
+  Both services offer carpool options
+
+
 
 <a name="fly-away" />
 **Fly-Away Bus with MetroRail**: Go to Ground Transportation Level and

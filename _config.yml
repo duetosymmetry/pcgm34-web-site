@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Unifying Tests of General Relativity
+title: 34th Pacific Coast Gravity Meeting
 locale: en_US
-description: <a href="https://burkeinstitute.caltech.edu/">Burke Institute</a> Workshop @ Caltech, July 19-21, 2016
+description: Caltech, March 16-17, 2017
 logo: #site-logo.png #TODO
 search: false
 url: http://www.tapir.caltech.edu/~unifying-gr-tests
@@ -50,7 +50,7 @@ titlecase: true
 owner:
   name: The Organizers
   avatar: #bio-photo.jpg
-  email: unifyingGRtests@tapir.caltech.edu
+  email: pcgm34@tapir.caltech.edu
   disqus-shortname:
   twitter: #username
   facebook: #username

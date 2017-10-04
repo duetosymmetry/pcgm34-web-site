@@ -42,13 +42,14 @@ Preferred reservation line: [(626) 795-0431](tel:1-626-795-0431)
 Pasadena, CA 91106](https://www.google.com/maps/place/Vagabond+Inn+Executive+Pasadena/@34.14295,-118.1285663,16.04z/data=!4m2!3m1!1s0x80c2c35af3e55f97:0xc01313c2aa239006) \\
 Phone: [(626) 449-3170](tel:1-626-449-3170)
 
-Walking route from the Vagabond to the Keck Center:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3302.1269292738302!2d-118.1277021342306!3d34.14309463058128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2c35af3e55f97%3A0xc01313c2aa239006!2sVagabond+Inn+Executive+Pasadena%2C+East+Colorado+Boulevard%2C+Pasadena%2C+CA!3m2!1d34.1463586!2d-118.12576689999999!4m5!1s0x80c2c3585bd4f6df%3A0x449b9be97833191d!2sKeck+Center%2C+Pasadena%2C+CA+91125!3m2!1d34.1398307!2d-118.1264633!5e0!3m2!1sen!2sus!4v1457716155860" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+Walking route from the Vagabond to Cahill:
 
-Walking route from the Saga to the Keck Center:
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d7719.38927944506!2d-118.12857296181032!3d34.14141169136429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2c35af3e55f97%3A0xc01313c2aa239006!2sVagabond+Inn+Executive+Pasadena%2C+East+Colorado+Boulevard%2C+Pasadena%2C+CA!3m2!1d34.1463586!2d-118.12576689999999!4m5!1s0x80c2c4a7b2bc8677%3A0x53f2b4e67b2bc249!2sCahill+Center+for+Astronomy+and+Astrophysics%2C+1216+E+California+Blvd%2C+Pasadena%2C+CA+91125!3m2!1d34.1356888!2d-118.1261064!5e0!3m2!1sen!2sus!4v1507160486973" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6604.260218107121!2d-118.12604697180983!3d34.14301327232532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2c35392ce22b9%3A0x467ecec3429d621!2sSaga+Motor+Hotel%2C+East+Colorado+Boulevard%2C+Pasadena%2C+CA!3m2!1d34.146195999999996!2d-118.11679099999999!4m5!1s0x80c2c3585bd4f6df%3A0x449b9be97833191d!2sKeck+Center%2C+Pasadena%2C+CA+91125!3m2!1d34.1398307!2d-118.1264633!5e0!3m2!1sen!2sus!4v1457716236206" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+Walking route from the Saga to Cahill:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6604.4141818536!2d-118.12523102406988!3d34.141043552158045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x80c2c35392ce22b9%3A0x467ecec3429d621!2sSaga+Motor+Hotel%2C+East+Colorado+Boulevard%2C+Pasadena%2C+CA!3m2!1d34.1463807!2d-118.1167184!4m5!1s0x80c2c4a7b2bc8677%3A0x53f2b4e67b2bc249!2sCahill+Center+for+Astronomy+and+Astrophysics%2C+1216+E+California+Blvd%2C+Pasadena%2C+CA+91125!3m2!1d34.1356888!2d-118.1261064!5e0!3m2!1sen!2sus!4v1507160530745" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 # Other hotels
 

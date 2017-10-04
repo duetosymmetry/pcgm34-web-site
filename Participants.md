@@ -8,6 +8,9 @@ image:
   feature:
 ---
 
+Coming soon...
+
+<!--
 Participation in the workshop will be by invitation only.
 We are still confirming participants, and will continue to update this
 page.
@@ -68,4 +71,4 @@ page.
 * Siavash Yasini (USC)
 * Nicolás Yunes (Montana)
 * Wayne Zhao (Harvard)
-* Miguel Zumalacárregui (NORDITA)
+* Miguel Zumalacárregui (NORDITA) -->

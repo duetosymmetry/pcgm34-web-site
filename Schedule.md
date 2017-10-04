@@ -8,9 +8,12 @@ image:
   feature:
 ---
 
-Click on a linked speaker's name to see their slides.
+Coming soon...
 
-<table rules="groups">
+<!--
+  Click on a linked speaker's name to see their slides.
+
+  <table rules="groups">
   <colgroup>
     <col span="1">
   </colgroup>
@@ -119,4 +122,4 @@ Click on a linked speaker's name to see their slides.
       <td style="text-align: left"> </td>
     </tr>
   </tbody>
-</table>
+  </table> -->

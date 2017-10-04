@@ -5,53 +5,48 @@ date: 2016-02-04T19:24:21-08:00
 modified:
 excerpt:
 image:
-  feature:# cahill.jpg
+  #feature: appleringdown.pdf
 ---
 
-Precision tests of general relativity are being developed
-enthusiastically on many fronts, but there is not enough communication
-between researchers working across different distance scales --- the
-observables, parametrization frameworks, and even alternative theories
-are different and hard to compare. The aim of this workshop is to
-develop a sort of "lingua franca" for those working on cosmological
-and strong-field tests of gravity, the eventual aim being the ability
-to usefully interpret observational results across the two fields.
+<img src="{{ site.url }}/images/appleringdown.png" style="width:200px"/>
 
-## Invited lecturers
 
-We will have lectures from:
 
-* Niayesh Afshordi (Perimeter Institute)
-* Tessa Baker (U Penn)
-* Clare Burrage (Nottingham)
-* Vitor Cardoso (IST Lisbon)
-* Lam Hui (Columbia)
-* Kazuya Koyama (ICG Portsmouth)
-* Ira Rothstein (Carnegie Mellon)
-* Jeremy Sakstein (ICG Portsmouth)
-* Thomas Sotiriou (Nottingham)
-* Norbert Wex (MPIfR, Bonn)
-* Kent Yagi (Princeton)
+The 34th Pacific Coast Gravity Meeting will be held at Caltech, Pasadena, CA, on March 16 and 17, 2018. In the tradition of the Pacific Coast Gravity Meetings, students and postdocs are strongly encouraged to participate, and all areas of gravitational physics —classical and quantum, theory and experiment— are welcome. We would like this meeting to serve as a communication medium among all branches of gravitational physics. Because this is a regional meeting, many participants will be from the Western United States, but all are welcome.
 
-Please see [the schedule]({{ site.url }}/Schedule/) for more details.
+In the longstanding tradition of PCGM, the logo involves an apple: this year it's an apple ringdown...
+
+We look forward to seeing you all at Caltech!
+
+## Important dates
+
+* February 18. Abstract and [registration]({{ site.url }}/Registration) deadline
+* February 26. Schedule announcement
+* February 26. Hotel room deadline
+* March 16-17. PCGM!
 
 ## Organizing committee
 
-* [Emanuele Berti](http://www.phy.olemiss.edu/~berti/)
-* [Phil Bull](http://philbull.com/)
-* [Sean Carroll](http://www.preposterousuniverse.com/)
-* [Yanbei Chen](http://www.tapir.caltech.edu/~yanbei/)
-* [Olivier Doré](http://olivierdore.net/)
-* [Jérôme Gleyzes](https://science.jpl.nasa.gov/people/Gleyzes/)
-* [Leo C. Stein](https://duetosymmetry.com/)
+* [Davide Gerosa](http://www.tapir.caltech.edu/~dgerosa/)
+* [Leo Stein](https://duetosymmetry.com/)
+* Mark Scheel
+* Masha Okounkova
+* Brittany Kamai
+* Ashmeet Singh
+* JoAnn Boyd
+
+Questions or comments?
+You can email the organizers at
+[pcgm34@tapir.caltech.edu](mailto:pcgm34@tapir.caltech.edu).
+
 
 ## Support
 
-We gratefully acknowledge the support of the [Walter Burke Institute for Theoretical Physics](https://burkeinstitute.caltech.edu/).
+We gratefully acknowledge the support of the Caltech [Division of Physics, Mathematics and Astronomy](http://pma.caltech.edu/).
 
 <figure class="half">
-<a href="https://burkeinstitute.caltech.edu/">
-<img src="{{ site.url }}/images/burke_institute_logo.png" />
+<a href="http://pma.caltech.edu/">
+<img src="{{ site.url }}/images/PMA2016ogo.png" />
 </a>
 <a href="https://www.caltech.edu/">
 <img src="{{ site.url }}/images/Caltech_LOGO-Orange_RGB.png" />
