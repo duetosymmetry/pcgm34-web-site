@@ -27,3 +27,20 @@ To learn how to install and use this theme check out the [Setup Guide](http://mm
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+## Leo was here
+
+Hi Davide. You want to do some of these things:
+
+> bundle install
+
+To run locally, use:
+
+> bundle exec jekyll serve --config=_localhost.yml
+
+To build for the web, run:
+
+> bundle exec jekyll build
+
+To upload to the server, run
+
+> ./tohost.sh
