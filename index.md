@@ -41,7 +41,7 @@ We gratefully acknowledge the support of the Caltech [Division of Physics, Mathe
 
 <figure class="half">
 <a href="http://pma.caltech.edu/">
-<img src="{{ site.url }}/images/PMAnew.png">
+<img src="{{ site.url }}/images/PMA2016ogo.png">
 </a>
 <a href="https://www.caltech.edu/">
 <img src="{{ site.url }}/images/Caltech_LOGO-Orange_RGB.png" />
