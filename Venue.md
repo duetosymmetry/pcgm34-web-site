@@ -66,17 +66,17 @@ enjoy a post-meal coffee at the Red Door Cafe in the sunshine.
 Other places to get food on the Caltech campus include:
 
 Broad Cafe\\
-M-F 7:45am - 2:30pm
+M--F 7:45am -- 2:30pm
 
 Chandler Dining Hall (see map below for location)\\
-M-F 7:00am - 3:30pm
+M--F 7:00am -- 3:30pm
 
 Red Door Cafe (coffee house located in the Winnett Center, see map below)\\
-M-F 7:30am - 5:30pm
+M--F 7:30am -- 5:30pm
 
 C-Store (convenience store located near Chandler)\\
-M-F 10:30am - 1:00am; Sat 11:00am - 8:00pm; Sun 12:00pm - 1:00am
+M--F 10:30am -- 1:00am; Sat 11:00am -- 8:00pm; Sun 12:00pm -- 1:00am
 
 # Area map
 
-<iframe src="https://www.google.com/maps/d/embed?mid=z72i9xaeI3io.kHQ9PcHD80Bc" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1ddB4cUOR6StY5MULCv1WLPNU7nM" width="640" height="480"></iframe>
