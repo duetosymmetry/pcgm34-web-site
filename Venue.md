@@ -79,4 +79,4 @@ M--F 10:30am -- 1:00am; Sat 11:00am -- 8:00pm; Sun 12:00pm -- 1:00am
 
 # Area map
 
-<iframe src="https://www.google.com/maps/d/embed?mid=z72i9xaeI3io.kHQ9PcHD80Bc" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1ddB4cUOR6StY5MULCv1WLPNU7nM" width="640" height="480"></iframe>
