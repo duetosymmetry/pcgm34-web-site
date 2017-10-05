@@ -7,7 +7,7 @@ excerpt:
 image:
   #feature: appleringdown.pdf
 ---
-<center><img src="{{ site.url }}/images/orangeapple.jpg" width="550"></center>
+<center><img src="{{ site.url }}/images/applenew.jpg" width="600"></center>
 
 The 34th Pacific Coast Gravity Meeting will be held at Caltech, Pasadena, CA, on March 16 and 17, 2018. In the tradition of the Pacific Coast Gravity Meetings, students and postdocs are strongly encouraged to participate, and all areas of gravitational physics —classical and quantum, theory and experiment— are welcome. We would like this meeting to serve as a communication medium among all branches of gravitational physics. Because this is a regional meeting, many participants will be from the Western United States, but all are welcome. A prize (sponsored by the APS [Division of Gravitational Physics](https://dgrav.org/)) will be awarded for the best student talk.
 
@@ -41,7 +41,7 @@ We gratefully acknowledge the support of the Caltech [Division of Physics, Mathe
 
 <figure class="half">
 <a href="http://pma.caltech.edu/">
-<img src="{{ site.url }}/images/PMA2016ogo.png" />
+<img src="{{ site.url }}/images/PMAnew.png">
 </a>
 <a href="https://www.caltech.edu/">
 <img src="{{ site.url }}/images/Caltech_LOGO-Orange_RGB.png" />

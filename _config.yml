@@ -5,8 +5,7 @@ locale: en_US
 description: Caltech, March 16-17, 2017
 logo: #site-logo.png #TODO
 search: false
-url: http://www.tapir.caltech.edu/~unifying-gr-tests
-
+url: http://www.tapir.caltech.edu/~pcgm34
 # Jekyll configuration
 
 permalink:   /:categories/:title/
