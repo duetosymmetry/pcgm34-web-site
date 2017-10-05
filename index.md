@@ -32,7 +32,7 @@ best student talk.
 * [Davide Gerosa](http://www.tapir.caltech.edu/~dgerosa/)
 * [Leo Stein](https://duetosymmetry.com/)
 * Mark Scheel
-* Masha Okounkova
+* Maria Okounkova
 * Brittany Kamai
 * Ashmeet Singh
 * JoAnn Boyd
