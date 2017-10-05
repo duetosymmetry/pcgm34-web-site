@@ -7,23 +7,18 @@ excerpt:
 image:
   #feature: appleringdown.pdf
 ---
+<center><img src="{{ site.url }}/images/orangeapple.jpg" width="550"></center>
 
-<img src="{{ site.url }}/images/orangeapple.jpg" style="width:200px"/>
+The 34th Pacific Coast Gravity Meeting will be held at Caltech, Pasadena, CA, on March 16 and 17, 2018. In the tradition of the Pacific Coast Gravity Meetings, students and postdocs are strongly encouraged to participate, and all areas of gravitational physics —classical and quantum, theory and experiment— are welcome. We would like this meeting to serve as a communication medium among all branches of gravitational physics. Because this is a regional meeting, many participants will be from the Western United States, but all are welcome. A prize (sponsored by the APS [Division of Gravitational Physics](https://dgrav.org/)) will be awarded for the best student talk.
 
-
-
-The 34th Pacific Coast Gravity Meeting will be held at Caltech, Pasadena, CA, on March 16 and 17, 2018. In the tradition of the Pacific Coast Gravity Meetings, students and postdocs are strongly encouraged to participate, and all areas of gravitational physics —classical and quantum, theory and experiment— are welcome. We would like this meeting to serve as a communication medium among all branches of gravitational physics. Because this is a regional meeting, many participants will be from the Western United States, but all are welcome.
-
-In the longstanding tradition of PCGM, the logo involves an apple: this year it's an apple ringdown...
-
-We look forward to seeing you all at Caltech!
+In the longstanding tradition of PCGM, the logo involves an apple: this year it's an apple ringdown... We look forward to seeing you all at Caltech!
 
 ## Important dates
 
 * February 18. Abstract and [registration]({{ site.url }}/Registration) deadline
 * February 26. Schedule announcement
-* February 26. Hotel room deadline
-* March 16-17. PCGM!
+* February 28. Hotel room booking deadline
+* March 16-17. See you all at PCGM
 
 ## Organizing committee
 

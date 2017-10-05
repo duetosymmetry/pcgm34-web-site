@@ -18,7 +18,7 @@ mode of transportation is best for you. Several options include:
 * [Fly-Away Bus with Metro Rail](#fly-away)
 * [Shuttle Services](#shuttle)
 * [Rental Car](#rental)
-* [Taxi or Limousine](#taxi)
+<!-- * [Taxi or Limousine](#taxi) -->
 
 We highly recommend you read more information about getting to the
 Pasadena area and moving around Los Angeles in the
@@ -28,9 +28,9 @@ Pasadena area and moving around Los Angeles in the
 **Ride sharing services**: Both [Uber](https://www.uber.com/airports/lax/) and
   [Lyft](https://www.lyft.com/airports/lax) are now allowed to pick up and
   drop off passenger at LAX. Go to the upper level (departures) at one of the
-  designated pick-up points (there's one per terminal). The price to a ride from
+  designated pick-up points (there's one per terminal). The price for a ride from
   LAX to Caltech is roughly $30, but it depends on surge charges.
-  Both services offer carpool options
+  Both services offer carpool options in LA.
 
 
 
@@ -74,12 +74,12 @@ campus) that you can rent for the times that you actually need the
 vehicle. It is sometimes more cost-effective to use the usual rental
 car venues when needing a car for more than half of a day.
 
-<a name="taxi" />
+<!-- <a name="taxi" />
 **Taxi or Limousine**: Hiring a taxi or limousine to go to/from Los
   Angeles International airport (LAX) is not recommended because of
   the long distance and often bad traffic conditions. Prices are much
   more reasonable if going to/from the smaller Burbank airport (BUR)
-  by taxi.
+  by taxi. -->
 
 
 # Information for drivers
