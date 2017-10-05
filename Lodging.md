@@ -24,7 +24,7 @@ deadline.
 * **Check-out**: The latest check-out date is **FIXME** (one day
   after the workshop).
 
-Phone to make a reservation, and ask for the "UTGR Workshop."
+Phone to make a reservation, and ask for the "FIXME."
 Here is the information we've received on the rates:
 at the Saga (all after taxes):
 USD FIXME for one person in a single room,
