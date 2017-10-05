@@ -8,7 +8,7 @@ image:
   #feature: appleringdown.pdf
 ---
 
-<img src="{{ site.url }}/images/appleringdown.png" style="width:200px"/>
+<img src="{{ site.url }}/images/orangeapple.jpg" style="width:200px"/>
 
 
 
