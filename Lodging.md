@@ -16,7 +16,7 @@ and one at the
 [Saga Motor Hotel](http://www.thesagamotorhotel.com/).
 
 * **Deadline**: The deadline for booking a room in either of these
-blocks is **July 1**.  After that date, the blocked rooms will be
+blocks is **FIXME**.  After that date, the blocked rooms will be
 released, so may or may not still be available after the FIXME
 deadline.
 * **Check-in**: The earliest check-in date is **FIXME** (one day
@@ -71,6 +71,6 @@ Alternative, more upscale options include:
 * [Sheraton Pasadena Hotel](http://deals.sheraton.com/Sheraton-Pasadena-Hotel-1196/special-offers?PS=LGEN_AA_DNAD_CGGL_TPRP)
 * [The Langham](http://pasadena.langhamhotels.com/?semid=tllax-brandsem-2013-cal)
 
-Also, [airbnb](https://www.airbnb.com/) typically offers several rooms in town. 
+Also, [airbnb](https://www.airbnb.com/) typically offers several rooms in town.
 
 <iframe width="600" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?near=1216+E+California+Blvd,+Pasadena,+California+91125&amp;geocode=FfLeCAIdoIr1-CmbBpzKp8TCgDF6t1MLE5pudA&amp;q=hotel&amp;f=l&amp;sll=34.140925,-118.125455&amp;sspn=0.014652,0.018797&amp;dirflg=w&amp;doflg=ptk&amp;ie=UTF8&amp;hq=hotel&amp;hnear=1216+E+California+Blvd,+Pasadena,+California+91125&amp;t=m&amp;checkin_date=2014-06-22&amp;num_nights=5&amp;fll=34.145411,-118.136072&amp;fspn=0.058604,0.075188&amp;st=115968771510351694523&amp;rq=1&amp;ev=zo&amp;split=1&amp;ll=34.12213,-118.142324&amp;spn=0.058606,0.075188&amp;output=embed"></iframe>

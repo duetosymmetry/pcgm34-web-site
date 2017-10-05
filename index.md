@@ -17,7 +17,7 @@ In the longstanding tradition of PCGM, the logo involves an apple: this year it'
 
 * February 18. Abstract and [registration]({{ site.url }}/Registration) deadline
 * February 26. Schedule announcement
-* February 28. Hotel room booking deadline
+* FIXME. Hotel room booking deadline
 * March 16-17. See you all at PCGM
 
 ## Organizing committee
