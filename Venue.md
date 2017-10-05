@@ -70,13 +70,10 @@ Broad Cafe\\
 M--F 7:45am -- 2:30pm
 
 Chandler Dining Hall (see map below for location)\\
-M--F 7:00am -- 3:30pm
+M--F 7:00am -- 3:30pm; Sat and Sun 9:00am -- 3:00pm
 
-Red Door Cafe (coffee house located in the Winnett Center, see map below)\\
-M--F 7:30am -- 5:30pm
-
-C-Store (convenience store located near Chandler)\\
-M--F 10:30am -- 1:00am; Sat 11:00am -- 8:00pm; Sun 12:00pm -- 1:00am
+Red Door Marketplace (coffee and convenience store located near Chandler)\\
+M--F 7:30am -- 1:00am; Sat 12:00am -- 8:00pm; Sun 3:00pm -- 1:00am
 
 # Area map
 
