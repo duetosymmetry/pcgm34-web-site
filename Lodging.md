@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lodging
-date: 2016-02-04T19:23:35-08:00
+date: 2017-10-05T00:00:00-08:00
 modified:
 excerpt:
 image:
