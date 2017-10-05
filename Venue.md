@@ -23,19 +23,20 @@ Pasadena, CA 91125](https://www.google.com/maps/place/Cahill+Center+for+Astronom
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5544.893113307159!2d-118.12848593804773!3d34.13695606002143!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x53f2b4e67b2bc249!2sCahill+Center+for+Astronomy+and+Astrophysics!5e0!3m2!1sen!2sus!4v1507159636507" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<!-- <figure>
-<a href="{{ site.url }}/images/keck-map.pdf">
-<img src="{{ site.url }}/images/keck-map.png" alt="Map of Keck center
-and surrounding buildings">
+<figure>
+<a href="{{ site.url }}/images/interactive_parking_map.pdf">
+<img src="{{ site.url }}/images/interactive_parking_map.png" alt="Map
+of Cahill and surrounding buildings">
 </a>
-<figcaption><a href="{{ site.url }}/images/keck-map.pdf">Click to view map of Keck center and
+<figcaption><a href="{{ site.url }}/images/interactive_parking_map.pdf">Click to view map of Cahill and
 surrounding buildings</a></figcaption>
-</figure> -->
+</figure>
 
 # Parking at Caltech
 
-The parking lots closest to the Keck center are highlighted in blue in
-the above map.  Parking costs $6 for all weekdays and is payable at
+The parking lot closest to Cahill is immediately South of it
+(highlighted in the above map).
+Parking costs $6 for all weekdays and is payable at
 nearby Pay Station vending machines. Park in any unreserved parking
 space.  More information is available from the
 [Caltech Parking web site](https://parking.caltech.edu/Parking/Visitor).
