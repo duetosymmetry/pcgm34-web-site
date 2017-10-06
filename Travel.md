@@ -18,7 +18,7 @@ mode of transportation is best for you. Several options include:
 * [Fly-Away Bus with Metro Rail](#fly-away)
 * [Shuttle Services](#shuttle)
 * [Rental Car](#rental)
-<!-- * [Taxi or Limousine](#taxi) -->
+  <!-- * [Taxi or Limousine](#taxi) -->
 
 We highly recommend you read more information about getting to the
 Pasadena area and moving around Los Angeles in the
@@ -38,7 +38,7 @@ Pasadena area and moving around Los Angeles in the
 **Fly-Away Bus with MetroRail**: Go to Ground Transportation Level and
   look for the “Fly-Away Bus” sign along the curb. Take the bus that
   goes to Union Station. Once at Union Station you can buy your bus
-  ticket for USD 9 (debit and credit cards only, no cash unless booked
+  ticket for USD 9.75 (debit and credit cards only, no cash unless booked
   [online](https://efleet.digital-dispatch.com/bauerslax/) in advance)
   and present it to the driver to retrieve you luggage. Then, enter
   Union Station and take the Metro Gold Line north to Pasadena. You
