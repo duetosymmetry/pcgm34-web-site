@@ -8,7 +8,7 @@ image:
   feature:# camels.jpg
 ---
 
-# Information for flyers
+# Information for air travelers
 
 If you will be flying into the area there are several ways to get to
 Pasadena.  Depending on where you will be staying may determine which
@@ -82,7 +82,7 @@ car venues when needing a car for more than half of a day.
   by taxi. -->
 
 
-# Information for drivers
+# Information for car travelers
 
 If you are driving to Pasadena you can find driving directions and
 maps [here](http://www.admissions.caltech.edu/content/directions-and-maps).
