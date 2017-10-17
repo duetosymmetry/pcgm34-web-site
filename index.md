@@ -24,7 +24,7 @@ best student talk.
 
 * February 18. Abstract and [registration]({{ site.url }}/Registration) deadline
 * February 26. Schedule announcement
-* FIXME. Hotel room booking deadline
+* February 15. Hotel room block reservations are released
 * March 16--17. See you all at PCGM
 
 ## Organizing committee
