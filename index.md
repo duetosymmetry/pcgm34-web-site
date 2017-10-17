@@ -30,12 +30,11 @@ best student talk.
 ## Organizing committee
 
 * [Davide Gerosa](http://www.tapir.caltech.edu/~dgerosa/)
-* [Leo Stein](https://duetosymmetry.com/)
-* Mark Scheel
-* Maria Okounkova
 * Brittany Kamai
+* Maria Okounkova
+* Mark Scheel
 * Ashmeet Singh
-* JoAnn Boyd
+* [Leo Stein](https://duetosymmetry.com/)
 
 Questions or comments?
 You can email the organizers at
