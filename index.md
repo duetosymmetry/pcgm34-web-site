@@ -22,9 +22,9 @@ best student talk.
 
 ## Important dates
 
+* February 15. Hotel room block reservations are released
 * February 18. Abstract and [registration]({{ site.url }}/Registration) deadline
 * February 26. Schedule announcement
-* February 15. Hotel room block reservations are released
 * March 16--17. See you all at PCGM
 
 ## Organizing committee
