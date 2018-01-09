@@ -16,9 +16,11 @@ physics---classical and quantum, theory and experiment---are
 welcome. We would like this meeting to serve as a communication medium
 among all branches of gravitational physics. Because this is a
 regional meeting, many participants will be from the Western United
-States, but all are welcome. A prize (sponsored by the APS [Division
-of Gravitational Physics](https://dgrav.org/)) will be awarded for the
-best student talk.
+States, but all are welcome. 
+
+The meeting is free to attend (no registration fee). Unfortunately, we are not able to provide financial assistant to speakers and participants. A prize (sponsored by the APS [Division of Gravitational Physics](https://dgrav.org/)) will be awarded for the best student talk. 
+
+
 
 ## Important dates
 
