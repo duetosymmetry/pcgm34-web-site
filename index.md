@@ -32,7 +32,7 @@ The meeting is free to attend (no registration fee). Unfortunately, we are not a
 ## Organizing committee
 
 * [Davide Gerosa](http://www.tapir.caltech.edu/~dgerosa/)
-* Brittany Kamai
+* [Maximiliano Isi](http://maxisi.me/)
 * Maria Okounkova
 * Mark Scheel
 * Ashmeet Singh
