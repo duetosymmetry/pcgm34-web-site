@@ -19,7 +19,7 @@ regional meeting, many participants will be from the Western United
 States, but all are welcome. 
 
 The meeting is free to attend (no registration fee). Unfortunately, we
-are not able to provide financial assistant to speakers and
+are not able to provide financial assistance to speakers and
 participants. A prize (sponsored by the APS [Division of Gravitational
 Physics](https://dgrav.org/)) will be awarded for the best student
 talk.
