@@ -18,9 +18,14 @@ among all branches of gravitational physics. Because this is a
 regional meeting, many participants will be from the Western United
 States, but all are welcome. 
 
-The meeting is free to attend (no registration fee). Unfortunately, we are not able to provide financial assistant to speakers and participants. A prize (sponsored by the APS [Division of Gravitational Physics](https://dgrav.org/)) will be awarded for the best student talk. 
+The meeting is free to attend (no registration fee). Unfortunately, we
+are not able to provide financial assistance to speakers and
+participants. A prize (sponsored by the APS [Division of Gravitational
+Physics](https://dgrav.org/)) will be awarded for the best student
+talk.
 
-
+It is a pleasure to dedicate this conference to Jim Isenberg, who
+started these meetings and has kept them going for 34 years.
 
 ## Important dates
 
@@ -32,7 +37,7 @@ The meeting is free to attend (no registration fee). Unfortunately, we are not a
 ## Organizing committee
 
 * [Davide Gerosa](http://www.tapir.caltech.edu/~dgerosa/)
-* Brittany Kamai
+* [Maximiliano Isi](http://maxisi.me/)
 * Maria Okounkova
 * Mark Scheel
 * Ashmeet Singh
