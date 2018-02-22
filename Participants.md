@@ -9,12 +9,13 @@ image:
 ---
 
 <style >
-tbody tr:nth-child(odd)  {background: #CCC;}
+tbody tr:nth-child(odd)  {background: #FFF;}
 tbody tr:nth-child(even) {background: #FFF;}
 tbody tr:hover {background: #ffa366;}
 </style>
 
 |--------------------------+---------------|
+| Participant | Affiliation |
 | :-                       | :-            |
 | 	Aaron Kennon	 | 	UCSB	 |
 | 	Aashana Tripathi	 | 	University of Potsdam	 |
@@ -127,7 +128,6 @@ tbody tr:hover {background: #ffa366;}
 | 	Quentin G Bailey	 | 	Embry-Riddle Aeronautical University	 |
 | 	Raymond Chiao	 | 	UC Merced	 |
 | 	Riccardo Barbieri	 | 	University of Pavia	 |
-| 	Robert Baker	 | 	Wildwood School	 |
 | 	Robert Baker	 | 	Wildwood School	 |
 | 	Robin Schipper	 | 	Cal State Northridge	 |
 | 	Rodger Thompson	 | 	University of Arizona	 |
