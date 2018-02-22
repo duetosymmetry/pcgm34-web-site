@@ -44,7 +44,6 @@ tbody tr:hover {background: #ffa366;}
 | 	Christos Tzounis	 | 	Cal Poly Pomona	 |
 | 	Coleman Dobson	 | 	Cal State Los Angeles	 |
 | 	Daniel D. Gutierrez	 | 		 |
-| 	Daniel Holz	 | 	University of Chicago / Stanford University	 |
 | 	Dave Snead	 | 	Saguarosoft	 |
 | 	Davide Gerosa	 | 	Caltech	 |
 | 	Denyz Melchor	 | 	Cal State Fullerton	 |
@@ -89,7 +88,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Ken MacLeod	 | 		 |
 | 	Kent Blackburn	 | 	Caltech	 |
 | 	Kevin Croker	 | 	University of Hawaii at Manoa	 |
-| 	Lalit Patel	 | 		 |
+| 	Lalit A. Patel	 | 		 |
 | 	Larry Bloxham	 | 	Lockheed Martin	 |
 | 	Larry Vikander	 | 		 |
 | 	Leo Stein	 | 	Caltech	 |
