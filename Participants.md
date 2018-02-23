@@ -19,10 +19,12 @@ tbody tr:hover {background: #ffa366;}
 | :-                       | :-            |
 | 	Aaron Kennon	 | 	UCSB	 |
 | 	Aashana Tripathi	 | 	University of Potsdam	 |
+| 	Abu-ajamieh Fayez	 | 	UC Davis	 |
 | 	Achilleas Porfyriadis	 | 	UCSB	 |
 | 	Akshay Khadse	 | 	University of Mississippi	 |
 | 	Alex Edison	 | 	UCLA	 |
 | 	Alexandra Macedo	 | 	Cal State Fullerton	 |
+| 	Allen Ovsepyan	 | 	Glendale Unified School District	 |
 | 	Andres Américo Navarro Leon	 | 	Universidad Santo Tomas	 |
 | 	Andrew Svesko	 | 	Arizona State University	 |
 | 	Antony Halim	 | 	Minerva Schools at Keck Graduate Institute	 |
@@ -30,6 +32,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Arthur Fischer	 | 	UC Santa Cruz	 |
 | 	Arun Ravishankar	 | 	University of Arizona	 |
 | 	Arvin Artoonian	 | 	Edwards AFB	 |
+| 	Ashmeet Singh	 | 	Caltech	 |
 | 	Atsushi Naruko	 | 	Tohoku University	 |
 | 	Baisakhi Mitra	 | 	Punjabi University	 |
 | 	Beverly K. Berger	 | 	American Physical Society	 |
@@ -50,13 +53,12 @@ tbody tr:hover {background: #ffa366;}
 | 	Derrick Kiley	 | 	Los Angeles City College	 |
 | 	Dipanjan Dey	 | 	Indian Institute of Technology	 |
 | 	Don V Black	 | 	American Institute for Research in Science and Technology	 |
-| 	Dong-Hoon Kim	 | 	Seoul National University, Republic of Korea	 |
+| 	Dong-Hoon Kim	 | 	Seoul National University	 |
 | 	Douglas A Singleton	 | 	Cal State Fresno	 |
 | 	Drake Larson	 | 	UCLA	 |
 | 	Durgasas Datta	 | 	Gnan Systems LLP	 |
 | 	Eric Mefford	 | 	UCSB	 |
 | 	Erick Leon	 | 	Cal State Fullerton	 |
-| 	Fayez	 | 	UC Davis	 |
 | 	Fazlu Rahman PP	 | 	Cochin University	 |
 | 	Franklin Felber	 | 	Starmark, Inc.	 |
 | 	Gabriel Trevino	 | 	UCSB	 |
@@ -118,6 +120,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Nikki Holtzer	 | 	University of Arizona	 |
 | 	Nikodem Poplawski	 | 	University of New Haven	 |
 | 	Noah Harris	 | 	Western Washington University	 |
+| 	Oli Patane	 | 	CSU Fullerton 	 |
 | 	Paul F O'Brien	 | 		 |
 | 	Peter Zimmerman	 | 	University of Arizona	 |
 | 	Poghos Kazarian	 | 	Caltech	 |
@@ -157,6 +160,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Yasunori Nomura	 | 	UC Berkeley	 |
 | 	Yoni BenTov	 | 	Caltech	 |
 | 	Yousef Izadi	 | 	Kansas State University	 |
+| 	Zachary Mark	 | 	Caltech	 |
 | 	Zicao Fu	 | 	UCSB	 |
 | ===                      |               |
 {: rules="groups" }
