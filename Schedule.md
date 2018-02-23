@@ -20,8 +20,9 @@ tbody tr:hover {background: #ffa366;}
 <h2> Friday  </h2>															
 
 |------------------------------------------|															
-|	8:00	-	8:30	|		|		|	Registration and breakfast	|					
-|	8:30	-	8:40	|		|		|	Welcome	|					
+|	8:00	-	8:30	|		|			Registration and breakfast	|					
+||															
+|	8:30	-	8:40	|		|			Welcome	|					
 |||	**Session 1: HEP**			|					Chair: Ashmeet Singh	|					
 |	8:40	-	8:52	|	*	|	Pratik Rath	|	Holography in general spacetimes	|					
 |	8:52	-	9:04	|	*	|	Gabriel Trevino	|	How to close the holographic entropy cone	|					
@@ -32,7 +33,8 @@ tbody tr:hover {background: #ffa366;}
 |	9:52	-	10:04	|	*	|	Gökçen Deniz Alıcı	|	Entropy in Born-Infeld Gravity	|					
 |	10:04	-	10:16	|	*	|	Zicao Fu	|	Bare Quantum Null Energy Condition	|					
 |	10:16	-	10:28	|	*	|	Julio Parra-Martinez	|	Anomalies and divergences in (super)gravity	|					
-|				|		|	**Caffeine**	|		|					
+|				|		|	Caffeine	|		|					
+||															
 |||	**Session 2: LIGO**			|					Chair: Max Isi	|					
 |	11:00	-	11:12	|	*	|	Gautam Venugopalan	|	Squeezing the vacuum - optomechanics for precision  metrology and cosmology	|					
 |	11:12	-	11:24	|		|	Alexandra Macedo	|	Identifying correlations between LIGO's astronomical  range and auxiliary sensors using LASSO regression	|					
@@ -42,7 +44,8 @@ tbody tr:hover {background: #ffa366;}
 |	12:00	-	12:12	|		|	Preston Jones	|	Vacuum production of electromagnetic radiation  by gravitational waves	|					
 |	12:12	-	12:24	|		|	Seoul National University	|	Effects of radiation reaction on gravitational waves from EMRI	|					
 |	12:24	-	12:36	|		|	Natalia Tenorio Maia	|	Radiation reaction of binary systems via EFT: spin effects	|					
-|				|		|	**Lunch**	|		|					
+|				|		|	Lunch	|		|					
+||															
 |||	**Session 3: Astrophysics**			|					Chair: Jess McIver	|					
 |	14:00	-	14:12	|	*	|	Riccardo Barbieri	|	Black hole spin alignment in binary black hole merger	|					
 |	14:12	-	14:24	|		|	Johan Samsing	|	Formation of Eccentric Black Hole Mergers	|					
@@ -52,7 +55,8 @@ tbody tr:hover {background: #ffa366;}
 |	15:00	-	15:12	|		|	Stephen Taylor	|	Nanohertz-frequency Gravitational Wave Astrophysics With  Pulsar Timing Arrays	|					
 |	15:12	-	15:24	|	*	|	Hannah Klion	|	Radiation Transport Simulations of Early-Time Emission from  Binary Neutron Star Merger Ejecta	|					
 |	15:24	-	15:36	|		|	Simon Birrer	|	Probing spacetime with strong gravitational lensing	|					
-|				|		|	**Caffeine**	|		|					
+|				|		|	Caffeine	|		|					
+||															
 |||	**Session 4: GR/HEP**			|					Chair: Yoni BenTov	|					
 |	16:00	-	16:12	|	*	|	Joseph Mitchell	|	Extended Symmetries on 2+1 Dimensional Dynamical Horizons	|					
 |	16:12	-	16:24	|	*	|	Eric Mefford	|	Gravitational Constraints on Operators in Spherical CFT_d	|					
@@ -68,6 +72,7 @@ tbody tr:hover {background: #ffa366;}
 
 |------------------------------------------|															
 |	8:00	-	8:30	|		|	Breakfast	|		|					
+||															
 |||	**Session 5: Beyond GR**			|					Chair: Davide Gerosa	|					
 |	8:40	-	8:52	|		|	Quentin G Bailey	|	General Relativity tests in the solar system and beyond	|					
 |	8:52	-	9:04	|	*	|	Luciano Manfredi	|	Quasinormal Modes of Modified Gravity Black Holes	|					
@@ -79,7 +84,8 @@ tbody tr:hover {background: #ffa366;}
 |	10:04	-	10:16	|	*	|	Kevin Croker	|	Cosmological tests of the gravastar hypothesis	|					
 |	10:16	-	10:28	|		|	Coleman Dobson	|	Fuzz Balls and Noncommutative Gravity	|					
 |	10:28	-	10:40	|		|	Atsushi Naruko	|	Extended vector-tensor theory	|					
-|				|		|	**Caffeine**	|		|					
+|				|		|	Caffeine	|		|					
+||															
 |||	**Session 6: Numerical Relativity**			|					Chair: Maria Okounkova	|					
 |	11:00	-	11:12	|	*	|	Vijay Varma	|	Aligned-spin numerical relativity hybrid surrogate model with subdominant modes.	|					
 |	11:12	-	11:24	|		|	Davide Gerosa	|	Modeling black hole kicks with waveform approximants	|					
@@ -89,7 +95,8 @@ tbody tr:hover {background: #ffa366;}
 |	12:00	-	12:12	|	*	|	Samuel Rodriguez	|	Visualizing the Curvature of Spacetime: Vortex and Tendex  Lines of Head-On Merging Binary Black Holes	|					
 |	12:12	-	12:24	|		|	Charalampos Markakis	|	Acoustical & Canonical Fluid Dynamics in Numerical General Relativity	|					
 |	12:24	-	12:36	|		|	George Schuhmann	|	Use of a Density Function to Represent Gravity	|					
-|				|		|	**Lunch**	|		|					
+|				|		|	Lunch	|		|					
+||															
 |||	**Session 7: Cosmology**			|					Chair: Steve Taylor	|					
 |	14:00	-	14:12	|		|	Arthur Fischer	|	A Simple Model for the Birth and Death of the Universe	|					
 |	14:12	-	14:24	|		|	Rodger Thompson	|	Analytic Cosmological Parameter Solutions with Beta Functions	|					
@@ -99,7 +106,8 @@ tbody tr:hover {background: #ffa366;}
 |	15:00	-	15:12	|	*	|	Andres Américo Navarro Leon	|	Non-Abelian S-term dark energy and inflation	|					
 |	15:12	-	15:24	|		|	Nikodem Poplawski	|	Big Bounce and Inflation from Spin and Torsion	|					
 |	15:24	-	15:36	|	*	|	Ilya Vilensky	|	Deriving loop quantum cosmology dynamics from diffeomorphism invariance	|					
-|				|		|	**Caffeine**	|		|					
+|				|		|	Caffeine	|		|					
+||															
 |	16:00	-	16:10	|		|	Student Prize	|		|					
 |||	**Session 8: Cosmology**			|					Chair: Leo Stein	|					
 |	16:10	-	16:22	|		|	Hongsu Kim	|	Closed Timelike Curves in Kerr-Newman BH spacetime are gauge artifacts.	|					
@@ -110,4 +118,7 @@ tbody tr:hover {background: #ffa366;}
 |	17:10	-	17:22	|		|	Andrew Svesko	|	Gravity from Lightcone Thermodynamics	|					
 |	17:22	-	17:34	|		|	Chiara Toldo	|	Black hole bound states in AdS	|					
 | <font color='white'>___________ <font> || <font color='white'>_____________________________<font>															
+
+Students marked with *.															
+
 {: rules="groups" }															
