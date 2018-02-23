@@ -10,7 +10,7 @@ image:
 
 <style >
 tbody tr:nth-child(odd)  {background: #FFF;}
-tbody tr:nth-child(even) {background: #FFF;}
+tbody tr:nth-child(even) {background: #F5F5F5;}
 tbody tr:hover {background: #ffa366;}
 </style>
 
