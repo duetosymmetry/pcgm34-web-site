@@ -57,6 +57,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Douglas A Singleton	 | 	Cal State Fresno	 |
 | 	Drake Larson	 | 	UCLA	 |
 | 	Durgasas Datta	 | 	Gnan Systems LLP	 |
+| 	Eric Flynn	 | 	Cal State Fullerton 	 |
 | 	Eric Mefford	 | 	UCSB	 |
 | 	Erick Leon	 | 	Cal State Fullerton	 |
 | 	Fazlu Rahman PP	 | 	Cochin University	 |
@@ -156,6 +157,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Tannaz Oskui	 | 	UCLA	 |
 | 	Taylor Ramirez	 | 	Cal State Northridge	 |
 | 	Uicheol Jang	 | 	ChungNnam National University	 |
+| 	Val Hovanesian	 | 	Glendale Community College	 |
 | 	Vijay Varma	 | 	Caltech	 |
 | 	Vishal Baibhav	 | 	University of Mississippi	 |
 | 	Vladimir Pastushenko	 | 		 |
