@@ -102,6 +102,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Maria Okounkova	 | 	Caltech	 |
 | 	Marina Papenkova	 | 	East Los Angeles College 	 |
 | 	Marissa Walker	 | 	Cal State Fullerton	 |
+| 	Mark Scheel	 | 	Caltech	 |
 | 	Martin Murin	 | 	UCLA	 |
 | 	Masoud Askari	 | 	Rahavard Persian Studies Journal	 |
 | 	Matthew Fox	 | 	Harvey Mudd College	 |
@@ -138,7 +139,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Sam Gralla	 | 	University of Arizona	 |
 | 	Samuel Rodriguez	 | 	Cal State Fullerton	 |
 | 	Satish Malhotra	 | 		 |
-| 	Satish Malhotra	 | 		 |
+| 	Saul A. Teukolsky	 | 	Caltech / Cornell	 |
 | 	Scott S Gordon	 | 	University of Central Florida	 |
 | 	Scott Shannon	 | 	Los Angeles Valley College	 |
 | 	Sergio Hernandez Cuenca	 | 	UCSB	 |
