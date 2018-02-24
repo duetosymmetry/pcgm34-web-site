@@ -60,7 +60,7 @@ tbody tr:hover {background: #ffa366;}
 |||	**Session 4: GR/HEP**			|					Chair: Davide Gerosa	|
 |	16:00	-	16:12	|	*	|	Joseph Mitchell	|	Extended Symmetries on 2+1 Dimensional Dynamical Horizons	|
 |	16:12	-	16:24	|	*	|	Eric Mefford	|	Gravitational Constraints on Operators in Spherical CFT_d	|
-|	16:24	-	16:36	|		|	James Hartle	|	No Boundary Wave Functions of the U	|
+|	16:24	-	16:36	|		|	James Hartle	|	No Boundary Wave Functions of the Universe	|
 |	16:36	-	16:48	|		|	Gary Horowitz	|	Cosmic Censorship in Anti DeSitter Space	|
 |	16:48	-	17:00	|	*	|	Ivan Kolar	|	Higher-dimensional NUT-like and near-horizon geometries  from the Kerr-NUT-(A)dS metrics	|
 |	17:00	-	17:12	|		|	Sam Gralla	|	Critical Behavior of Extremal Black Hole Perturbations.  I. Aretakis Instability	|

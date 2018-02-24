@@ -115,6 +115,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Michele Oliosi	 | 	YITP, Kyoto University	 |
 | 	Mohsenah 	 | 	Western Illinois University 	 |
 | 	N.L. Rieger	 | 	UC Irvine	 |
+| 	Nader Inan	 | 	UC Merced	 |
 | 	Nassim Kangarlou	 | 		 |
 | 	Natalia Tenorio Maia	 | 	University of Pittsburgh	 |
 | 	Nico Salzetta	 | 	UC Berkeley	 |
