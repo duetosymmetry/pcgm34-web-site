@@ -65,13 +65,13 @@ tbody td {vertical-align:top; padding-left: 3px; padding-right: 2px;}
 | ===										
 |	16:00			|		|	**Session 4: GR/HEP**	|	Chair: Davide Gerosa	|
 |	16:00	–	16:12	|	*	|	Joseph Mitchell	|	Extended Symmetries on 2+1 Dimensional Dynamical Horizons	|
-|	16:12	–	16:24	|	*	|	Eric Mefford	|	Gravitational Constraints on Operators in Spherical CFT_d	|
+|	16:12	–	16:24	|	*	|	Eric Mefford	|	Gravitational Constraints on Operators in Spherical CFT<sub>d</sub>	|
 |	16:24	–	16:36	|		|	James Hartle	|	No Boundary Wave Functions of the Universe	|
 |	16:36	–	16:48	|		|	Gary Horowitz	|	Cosmic Censorship in Anti DeSitter Space	|
 |	16:48	–	17:00	|	*	|	Ivan Kolar	|	Higher-dimensional NUT-like and near-horizon geometries  from the Kerr-NUT-(A)dS metrics	|
-|	17:00	–	17:12	|		|	Sam Gralla	|	Critical Behavior of Extremal Black Hole Perturbations.  I. Aretakis Instability	|
-|	17:12	–	17:24	|		|	Peter Zimmerman	|	Critical Behavior of Extremal Black Hole Perturbations.  II. Universal Exponents	|
-|	17:24	–	17:36	|	*	|	Arun Ravishankar	|	Critical Behavior of Extremal Black Hole Perturbations.  III. Holography?	|
+|	17:00	–	17:12	|		|	Sam Gralla	|	Critical Behavior of Extremal Black Hole Perturbations.  I. Aretakis Instability	|
+|	17:12	–	17:24	|		|	Peter Zimmerman	|	Critical Behavior of Extremal Black Hole Perturbations.  II. Universal Exponents	|
+|	17:24	–	17:36	|	*	|	Arun Ravishankar	|	Critical Behavior of Extremal Black Hole Perturbations.  III. Holography?	|
 | ===										
 {: rules="groups" }										
 										
@@ -124,7 +124,7 @@ tbody td {vertical-align:top; padding-left: 3px; padding-right: 2px;}
 |	16:22	–	16:34	|		|	Chia-Hsien Shen	|	Color-kinematics duality in Classical Radiation	|
 |	16:34	–	16:46	|		|	Christos Tzounis	|	Ingoing Eddington-Finkelstein Metric of  an Evaporating Black Hole	|
 |	16:46	–	16:58	|		|	Shohreh Abdolrahimi	|	Hawking Radiation Energy and Entropy from a  Bianchi-Smerlak Semiclassical Black Hole	|
-|	16:58	–	17:10	|		|	Sujoy Modak	|	Saying `Yes' to loss of information in black hole evaporation	|
+|	16:58	–	17:10	|		|	Sujoy Modak	|	Saying 'Yes' to loss of information in black hole evaporation	|
 |	17:10	–	17:22	|		|	Chiara Toldo	|	Black hole bound states in AdS	|
 | ===										
 {: rules="groups" }										
