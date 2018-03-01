@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participants
-date: 2017-10-05T00:00:00-08:00
+date: 2018-02-28T00:00:00-08:00
 modified:
 excerpt:
 image:
@@ -17,7 +17,9 @@ tbody tr:hover {background: #ffa366;}
 |--------------------------+---------------|
 | Participant | Affiliation |
 | :-                       | :-            |
+| 	A. James Armstrong	 | 	USC	 |
 | 	Aaron Kennon	 | 	UCSB	 |
+| 	Aaron Markowitz	 | 	Caltech	 |
 | 	Aashana Tripathi	 | 	University of Potsdam	 |
 | 	Abu-ajamieh Fayez	 | 	UC Davis	 |
 | 	Achilleas Porfyriadis	 | 	UCSB	 |
@@ -81,6 +83,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Jess McIver	 | 	Caltech	 |
 | 	João Silvestre	 | 	Agrupamento de escolas da Lousã	 |
 | 	Johan Samsing	 | 	Princeton University	 |
+| 	Jonathan Portillo	 | 	Los Angeles Valley College 	 |
 | 	Joseph Mitchell	 | 	UC Davis	 |
 | 	Julio Parra-Martinez	 | 	UCLA	 |
 | 	Junyu Liu	 | 	Caltech	 |
@@ -114,7 +117,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Michael Barton	 | 	Cal State Northridge	 |
 | 	Michael Coughlin	 | 	Caltech	 |
 | 	Michele Oliosi	 | 	YITP, Kyoto University	 |
-| 	Mohsenah 	 | 	Western Illinois University 	 |
+| 	Mohsenah Mashniwi	 | 	Western Illinois University 	 |
 | 	N.L. Rieger	 | 	UC Irvine	 |
 | 	Nader Inan	 | 	UC Merced	 |
 | 	Nassim Kangarlou	 | 		 |
@@ -126,7 +129,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Oli Patane	 | 	CSU Fullerton 	 |
 | 	Paul F O'Brien	 | 		 |
 | 	Peter Zimmerman	 | 	University of Arizona	 |
-| 	Poghos Kazarian	 | 	Caltech	 |
+| 	Poghos Kazarian	 | 		 |
 | 	Prabhjot Singh	 | 	Los Angeles Valley College	 |
 | 	Pratik Rath	 | 	UC Berkeley	 |
 | 	Preston Jones	 | 	Embry-Riddle Aeronautical University	 |
@@ -166,5 +169,5 @@ tbody tr:hover {background: #ffa366;}
 | 	Yousef Izadi	 | 	Kansas State University	 |
 | 	Zachary Mark	 | 	Caltech	 |
 | 	Zicao Fu	 | 	UCSB	 |
-| ===                      |               |
+| ===
 {: rules="groups" }
