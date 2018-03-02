@@ -18,6 +18,7 @@ tbody tr:hover {background: #ffa366;}
 | Participant | Affiliation |
 | :-                       | :-            |
 | 	Shohreh Abdolrahimi	 | 	Cal Poly Pomona	 |
+| 	Fayez Abu-ajamieh	 | 	UC Davis	 |
 | 	Brian Aguilera	 | 	Raytheon	 |
 | 	Gökçen Deniz Alıcı	 | 	Middle East Technical University	 |
 | 	A. James Armstrong	 | 	USC	 |
@@ -44,14 +45,13 @@ tbody tr:hover {background: #ffa366;}
 | 	Michael Coughlin	 | 	Caltech	 |
 | 	Kevin Croker	 | 	University of Hawaii at Manoa	 |
 | 	Sergio Hernandez Cuenca	 | 	UCSB	 |
-| 	Durgasas Datta	 | 	Gnan Systems LLP	 |
+| 	Durgadas Datta	 | 	Gnan Systems LLP	 |
 | 	Christopher DeMellier	 | 	Cal State Northridge	 |
 | 	Dipanjan Dey	 | 	Indian Institute of Technology	 |
 | 	Coleman Dobson	 | 	Cal State Los Angeles	 |
 | 	Ruifeng Dong	 | 	State University of New York / University at Buffalo	 |
 | 	Alex Edison	 | 	UCLA	 |
 | 	Katherine Elder	 | 	Cal State Fresno	 |
-| 	Abu-ajamieh Fayez	 | 	UC Davis	 |
 | 	Franklin Felber	 | 	Starmark, Inc.	 |
 | 	Arthur Fischer	 | 	UC Santa Cruz	 |
 | 	Eric Flynn	 | 	Cal State Fullerton 	 |
