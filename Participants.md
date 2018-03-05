@@ -19,6 +19,7 @@ tbody tr:hover {background: #ffa366;}
 | :-                       | :-            |
 | 	Shohreh Abdolrahimi	 | 	Cal Poly Pomona	 |
 | 	Fayez Abu-ajamieh	 | 	UC Davis	 |
+| 	Rana X Adhikari	 | 	Caltech	 |
 | 	Brian Aguilera	 | 	Raytheon	 |
 | 	Gökçen Deniz Alıcı	 | 	Middle East Technical University	 |
 | 	A. James Armstrong	 | 	USC	 |
@@ -47,6 +48,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Sergio Hernandez Cuenca	 | 	UCSB	 |
 | 	Durgadas Datta	 | 	Gnan Systems LLP	 |
 | 	Christopher DeMellier	 | 	Cal State Northridge	 |
+| 	Phillip W. Dennis	 | 		 |
 | 	Dipanjan Dey	 | 	Indian Institute of Technology	 |
 | 	Coleman Dobson	 | 	Cal State Los Angeles	 |
 | 	Ruifeng Dong	 | 	State University of New York / University at Buffalo	 |
@@ -87,6 +89,8 @@ tbody tr:hover {background: #ffa366;}
 | 	Hannah Klion	 | 	UC Berkeley	 |
 | 	Ivan Kolar	 | 	Charles University in Prague	 |
 | 	Drake Larson	 | 	UCLA	 |
+| 	Jamie Law-Smith	 | 	UC Santa Cruz	 |
+| 	Dennis Lehmkuhl	 | 	Caltech	 |
 | 	Andres Américo Navarro Leon	 | 	Universidad Santo Tomas	 |
 | 	Erick Leon	 | 	Cal State Fullerton	 |
 | 	Hyun Lim	 | 	Brigham Young University	 |
@@ -140,6 +144,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Samuel Rodriguez	 | 	Cal State Fullerton	 |
 | 	Nico Salzetta	 | 	UC Berkeley	 |
 | 	Johan Samsing	 | 	Princeton University	 |
+| 	Eric Sawyer	 | 	UCLA	 |
 | 	Mark Scheel	 | 	Caltech	 |
 | 	Robin Schipper	 | 	Cal State Northridge	 |
 | 	George Schuhmann	 | 	University of Louisville	 |
