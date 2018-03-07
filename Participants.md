@@ -41,6 +41,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Hector Calderon	 | 		 |
 | 	Lizet Casillas	 | 	Cal State Northridge	 |
 | 	Katie Chamberlain	 | 	Montana State University	 |
+| 	Baoyi Chen	 | 	Caltech	 |
 | 	Raymond Chiao	 | 	UC Merced	 |
 | 	Jared Claypoole	 | 	UCLA	 |
 | 	Michael Coughlin	 | 	Caltech	 |
@@ -86,7 +87,6 @@ tbody tr:hover {background: #ffa366;}
 | 	Derrick Kiley	 | 	Los Angeles City College	 |
 | 	Dong-Hoon Kim	 | 	Seoul National University	 |
 | 	Hongsu Kim	 | 	Korea Astronomy and Space Science Institute	 |
-| 	Hannah Klion	 | 	UC Berkeley	 |
 | 	Ivan Kolar	 | 	Charles University in Prague	 |
 | 	Drake Larson	 | 	UCLA	 |
 | 	Jamie Law-Smith	 | 	UC Santa Cruz	 |
@@ -106,11 +106,13 @@ tbody tr:hover {background: #ffa366;}
 | 	Charalampos Markakis	 | 	University of Cambridge / University of Illinois	 |
 | 	Aaron Markowitz	 | 	Caltech	 |
 | 	Mohsenah Mashniwi	 | 	Western Illinois University 	 |
+| 	Davoud Masoumi	 | 	UC Merced	 |
 | 	Jess McIver	 | 	Caltech	 |
 | 	Eric Mefford	 | 	UCSB	 |
 | 	Denyz Melchor	 | 	Cal State Fullerton	 |
 | 	Heather R Mentzer	 | 	Loyola Marymount University	 |
 | 	Matthew Mewes	 | 	Cal Poly San Luis Obispo	 |
+| 	Joseph Mills	 | 	Cardiff University	 |
 | 	Chiara Mingarelli	 | 	Flatiron Institute	 |
 | 	Joseph Mitchell	 | 	UC Davis	 |
 | 	Baisakhi Mitra	 | 	Punjabi University	 |
@@ -135,7 +137,6 @@ tbody tr:hover {background: #ffa366;}
 | 	Nikodem Poplawski	 | 	University of New Haven	 |
 | 	Achilleas Porfyriadis	 | 	UCSB	 |
 | 	Jonathan Portillo	 | 	Los Angeles Valley College 	 |
-| 	Fazlu Rahman PP	 | 	Cochin University	 |
 | 	Taylor Ramirez	 | 	Cal State Northridge	 |
 | 	Pratik Rath	 | 	UC Berkeley	 |
 | 	Arun Ravishankar	 | 	University of Arizona	 |
@@ -156,7 +157,6 @@ tbody tr:hover {background: #ffa366;}
 | 	Douglas A Singleton	 | 	Cal State Fresno	 |
 | 	Dave Snead	 | 	Saguarosoft	 |
 | 	Leo Stein	 | 	Caltech	 |
-| 	Andrew Svesko	 | 	Arizona State University	 |
 | 	Stephen Taylor	 | 	Caltech	 |
 | 	Saul A. Teukolsky	 | 	Caltech / Cornell	 |
 | 	Rodger Thompson	 | 	University of Arizona	 |
