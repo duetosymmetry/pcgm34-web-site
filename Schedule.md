@@ -7,7 +7,7 @@ excerpt:
 image:										
 feature:										
 ---										
-										
+
 <style>										
 tbody tr:nth-child(odd)  {background: #FFF;}										
 tbody tr:nth-child(even) {background: #F5F5F5;}										
@@ -16,12 +16,12 @@ tbody td:first-child {white-space: nowrap;}
 tbody td:nth-child(3) {white-space: nowrap;}										
 tbody td {vertical-align:top; padding-left: 3px; padding-right: 2px;}										
 </style>										
-										
-										
-										
-										
+
+
+
+
 <h2> Friday  </h2>										
-										
+
 |------------------------------------------|										
 |	8:00	–	8:30	|		|			Registration and breakfast	|
 | ===										
@@ -46,7 +46,7 @@ tbody td {vertical-align:top; padding-left: 3px; padding-right: 2px;}
 |	11:36	–	11:48	|	*	|	Kellie Ault-O'Neal	|	Testing General Relativity Through Gravitational Waves	|
 |	11:48	–	12:00	|	*	|	Katie Chamberlain	|	Testing modified gravity with future gravitational wave detectors	|
 |	12:00	–	12:12	|		|	Preston Jones	|	Vacuum production of electromagnetic radiation  by gravitational waves	|
-|	12:12	–	12:24	|		|	Nader Inan	|	A New Approach to Detecting Gravitational Waves via a Charge Separation Effect in Superconductors	|
+|	12:12	–	12:24	|	*	|	Nader Inan	|	A New Approach to Detecting Gravitational Waves via a Charge Separation Effect in Superconductors	|
 |	12:24	–	12:36	|		|	Dong-Hoon Kim	|	Effects of radiation reaction on gravitational waves from EMRI	|
 | ===										
 |	12:36	–	14:00	|		|	Lunch	|		|
@@ -74,9 +74,9 @@ tbody td {vertical-align:top; padding-left: 3px; padding-right: 2px;}
 |	17:24	–	17:36	|	*	|	Arun Ravishankar	|	Critical Behavior of Extremal Black Hole Perturbations.  III. Holography?	|
 | ===										
 {: rules="groups" }										
-										
+
 <h2> Saturday  </h2>										
-										
+
 |------------------------------------------|										
 |	8:00	–	8:30	|		|	Breakfast	|		|
 | ===										
