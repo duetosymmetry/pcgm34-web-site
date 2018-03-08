@@ -2,12 +2,12 @@
 layout: page										
 title:	Schedule									
 date: 2018-02-28T00:00:00-08:00										
-modified:										
+modified:	2018-03-07T16:21:30-08:00									
 excerpt:										
 image:										
 feature:										
 ---										
-
+										
 <style>										
 tbody tr:nth-child(odd)  {background: #FFF;}										
 tbody tr:nth-child(even) {background: #F5F5F5;}										
@@ -16,16 +16,16 @@ tbody td:first-child {white-space: nowrap;}
 tbody td:nth-child(3) {white-space: nowrap;}										
 tbody td {vertical-align:top; padding-left: 3px; padding-right: 2px;}										
 </style>										
-
-
-
-
+										
+										
+										
+										
 <h2> Friday  </h2>										
-
+										
 |------------------------------------------|										
 |	8:00	–	8:30	|		|			Registration and breakfast	|
 | ===										
-|	8:00			|		|	**Session 1: HEP**	|	Chair: Ashmeet Singh	|
+|	8:30			|		|	**Session 1: HEP**	|	Chair: Ashmeet Singh	|
 |	8:30	–	8:42	|		|			Welcome	|
 |	8:42	–	8:54	|	*	|	Nico Salzetta	|	Spacetime from Unentanglement	|
 |	8:54	–	9:06	|	*	|	Pratik Rath	|	Holography in general spacetimes	|
@@ -74,9 +74,9 @@ tbody td {vertical-align:top; padding-left: 3px; padding-right: 2px;}
 |	17:24	–	17:36	|	*	|	Arun Ravishankar	|	Critical Behavior of Extremal Black Hole Perturbations.  III. Holography?	|
 | ===										
 {: rules="groups" }										
-
+										
 <h2> Saturday  </h2>										
-
+										
 |------------------------------------------|										
 |	8:00	–	8:30	|		|	Breakfast	|		|
 | ===										
