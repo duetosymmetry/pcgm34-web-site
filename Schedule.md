@@ -2,7 +2,7 @@
 layout: page															
 title:	Schedule														
 date: 2018-02-28T00:00:00-08:00															
-modified:	2018-03-08T8:52:31-08:00														
+modified:	2018-03-09T8:3:37-08:00														
 excerpt:															
 image:															
 feature:															
@@ -118,7 +118,7 @@ tbody td {vertical-align:top; padding-left: 3px; padding-right: 2px;}
 | ===															
 |	15:36	–	16:00	|		|	Coffee break	|		|					
 | ===															
-|	16:00			|		|	**Session 8: Cosmology**	|	Chair: Leo Stein	|					
+|	16:00			|		|	**Session 8: GR/HEP**	|	Chair: Leo Stein	|					
 |	16:00	–	16:10	|		|	Student Prize	|		|					
 |	16:10	–	16:22	|		|	Hongsu Kim	|	Closed Timelike Curves in Kerr-Newman BH spacetime are gauge artifacts.	|					
 |	16:22	–	16:34	|		|	Chia-Hsien Shen	|	Color-kinematics duality in Classical Radiation	|					
