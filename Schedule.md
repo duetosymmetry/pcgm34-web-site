@@ -2,7 +2,7 @@
 layout: page										
 title:	Schedule									
 date: 2018-02-28T00:00:00-08:00										
-modified:	2018-03-13T6:2:3-08:00									
+modified:	2018-03-14T14:31:46-07:00									
 excerpt:										
 image:										
 feature:										
@@ -47,9 +47,8 @@ tbody td {vertical-align:top; padding-left: 3px; padding-right: 2px;}
 |	11:48	–	12:00	|	*	|	Katie Chamberlain	|	Testing modified gravity with future gravitational wave detectors	|
 |	12:00	–	12:12	|		|	Preston Jones	|	Vacuum production of electromagnetic radiation by gravitational waves	|
 |	12:12	–	12:24	|	*	|	Nader Inan	|	A New Approach to Detecting Gravitational Waves via a Charge Separation Effect in Superconductors	|
-|	12:24	–	12:36	|		|	Dong-Hoon Kim	|	Effects of radiation reaction on gravitational waves from EMRI	|
 | ===										
-|	12:36	–	14:00	|		|	Lunch	|		|
+|	12:24	–	14:00	|		|	Lunch	|		|
 | ===										
 |	14:00			|		|	**Session 3: Astrophysics**	|	Chair: Jess McIver	|
 |	14:00	–	14:12	|	*	|	Riccardo Barbieri	|	Black hole spin alignment in binary black hole merger	|
