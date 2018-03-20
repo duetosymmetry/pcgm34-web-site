@@ -18,11 +18,6 @@ tbody tr:hover {background: #ffa366;}
 | Participant | Affiliation |
 | :-                       | :-            |
 | 	Shohreh Abdolrahimi	 | 	Cal Poly Pomona	 |
-| 	Fayez Abu-ajamieh	 | 	UC Davis	 |
-| 	Rana X Adhikari	 | 	Caltech	 |
-| 	Brian Aguilera	 | 	Raytheon	 |
-| 	Gökçen Deniz Alıcı	 | 	Middle East Technical University	 |
-| 	A. James Armstrong	 | 	USC	 |
 | 	Arvin Artoonian	 | 	Edwards AFB	 |
 | 	Masoud Askari	 | 	Rahavard Persian Studies Journal	 |
 | 	Kellie Ault-O'Neal	 | 	Embry-Riddle Aeronautical University	 |
@@ -36,77 +31,60 @@ tbody tr:hover {background: #ffa366;}
 | 	Jeffrey Bidler	 | 	Cal State Fullerton	 |
 | 	Simon Birrer	 | 	UCLA	 |
 | 	Don V Black	 | 	American Institute for Research in Science and Technology	 |
-| 	Kent Blackburn	 | 	Caltech	 |
-| 	Larry Bloxham	 | 	Lockheed Martin	 |
-| 	Hector Calderon	 | 		 |
-| 	Lizet Casillas	 | 	Cal State Northridge	 |
 | 	Katie Chamberlain	 | 	Montana State University	 |
+| 	Tom Chamberlain	 | 		 |
+| 	Maria Charisi	 | 	Caltech	 |
 | 	Baoyi Chen	 | 	Caltech	 |
+| 	Yanbei Chen	 | 	Caltech	 |
 | 	Raymond Chiao	 | 	UC Merced	 |
-| 	Jared Claypoole	 | 	UCLA	 |
-| 	Michael Coughlin	 | 	Caltech	 |
 | 	Kevin Croker	 | 	University of Hawaii at Manoa	 |
 | 	Sergio Hernandez Cuenca	 | 	UCSB	 |
-| 	Durgadas Datta	 | 	Gnan Systems LLP	 |
 | 	Christopher DeMellier	 | 	Cal State Northridge	 |
 | 	Phillip W. Dennis	 | 		 |
-| 	Dipanjan Dey	 | 	Indian Institute of Technology	 |
 | 	Coleman Dobson	 | 	Cal State Los Angeles	 |
 | 	Ruifeng Dong	 | 	State University of New York / University at Buffalo	 |
-| 	Alex Edison	 | 	UCLA	 |
-| 	Katherine Elder	 | 	Cal State Fresno	 |
-| 	Franklin Felber	 | 	Starmark, Inc.	 |
+| 	Karina Engstron	 | 	UC Merced	 |
+| 	Heidi Fearn	 | 	Cal State Fullerton	 |
 | 	Arthur Fischer	 | 	UC Santa Cruz	 |
 | 	Eric Flynn	 | 	Cal State Fullerton 	 |
 | 	Matthew Fox	 | 	Harvey Mudd College	 |
 | 	Zicao Fu	 | 	UCSB	 |
+| 	Chad Galley	 | 	JPL	 |
 | 	Davide Gerosa	 | 	Caltech	 |
 | 	Matthew Giesler	 | 	Caltech	 |
-| 	Scott S Gordon	 | 	University of Central Florida	 |
 | 	Sam Gralla	 | 	University of Arizona	 |
-| 	Daniel D. Gutierrez	 | 		 |
-| 	Lucas Haley	 | 	Los Angeles Valley College	 |
-| 	Antony Halim	 | 	Minerva Schools at Keck Graduate Institute	 |
+| 	Jazlyn Guerrero	 | 	Cal State Fullerton	 |
 | 	Noah Harris	 | 	Western Washington University	 |
 | 	James Hartle	 | 	UCSB	 |
 | 	Nikki Holtzer	 | 	University of Arizona	 |
 | 	Gary Horowitz	 | 	UCSB	 |
 | 	Val Hovanesian	 | 	Glendale Community College	 |
 | 	Nader Inan	 | 	UC Merced	 |
-| 	Bryen Irving	 | 	Cal State Long Beach	 |
 | 	Maximiliano Isi	 | 	Caltech	 |
 | 	Yousef Izadi	 | 	Kansas State University	 |
-| 	Uicheol Jang	 | 	ChungNnam National University	 |
-| 	Shayan Javid	 | 	Los Angeles Valley College	 |
 | 	Preston Jones	 | 	Embry-Riddle Aeronautical University	 |
 | 	Bong Soo Kang	 | 	UC Merced	 |
-| 	Nassim Kangarlou	 | 		 |
 | 	Poghos Kazarian	 | 		 |
 | 	Aaron Kennon	 | 	UCSB	 |
 | 	Akshay Khadse	 | 	University of Mississippi	 |
-| 	Derrick Kiley	 | 	Los Angeles City College	 |
-| 	Dong-Hoon Kim	 | 	Seoul National University	 |
-| 	Hongsu Kim	 | 	Korea Astronomy and Space Science Institute	 |
 | 	Ivan Kolar	 | 	Charles University in Prague	 |
+|   Kevin Kuns  |  Caltech  |
 | 	Drake Larson	 | 	UCLA	 |
 | 	Jamie Law-Smith	 | 	UC Santa Cruz	 |
 | 	Dennis Lehmkuhl	 | 	Caltech	 |
-| 	Andres Américo Navarro Leon	 | 	Universidad Santo Tomas	 |
 | 	Erick Leon	 | 	Cal State Fullerton	 |
 | 	Hyun Lim	 | 	Brigham Young University	 |
 | 	Junyu Liu	 | 	Caltech	 |
+| 	Geoffrey Lovelace	 | 	Cal State Fullerton	 |
 | 	Alexandra Macedo	 | 	Cal State Fullerton	 |
 | 	Ken MacLeod	 | 		 |
 | 	Natalia Tenorio Maia	 | 	University of Pittsburgh	 |
 | 	Kazuki Makino	 | 	Juniata College	 |
-| 	Satish Malhotra	 | 		 |
 | 	Taha Ahmad Malik	 | 	University of Texas at San Antonio	 |
 | 	Luciano Manfredi	 | 	Loyola Marymount University	 |
 | 	Zachary Mark	 | 	Caltech	 |
 | 	Charalampos Markakis	 | 	University of Cambridge / University of Illinois	 |
 | 	Aaron Markowitz	 | 	Caltech	 |
-| 	Mohsenah Mashniwi	 | 	Western Illinois University 	 |
-| 	Davoud Masoumi	 | 	UC Merced	 |
 | 	Jess McIver	 | 	Caltech	 |
 | 	Eric Mefford	 | 	UCSB	 |
 | 	Denyz Melchor	 | 	Cal State Fullerton	 |
@@ -114,55 +92,44 @@ tbody tr:hover {background: #ffa366;}
 | 	Matthew Mewes	 | 	Cal Poly San Luis Obispo	 |
 | 	Joseph Mills	 | 	Cardiff University	 |
 | 	Chiara Mingarelli	 | 	Flatiron Institute	 |
-| 	Joseph Mitchell	 | 	UC Davis	 |
-| 	Baisakhi Mitra	 | 	Punjabi University	 |
 | 	Sujoy Modak	 | 	University of Colima	 |
 | 	Taisaku Mori	 | 	Nagoya University	 |
 | 	Shinji Mukohyama	 | 	YITP, Kyoto University	 |
 | 	Martin Murin	 | 	UCLA	 |
 | 	Atsushi Naruko	 | 	Tohoku University	 |
-| 	Yasunori Nomura	 | 	UC Berkeley	 |
 | 	Paul F O'Brien	 | 		 |
 | 	Maria Okounkova	 | 	Caltech	 |
 | 	Michele Oliosi	 | 	YITP, Kyoto University	 |
-| 	Tannaz Oskui	 | 	UCLA	 |
-| 	Allen Ovsepyan	 | 	Glendale Unified School District	 |
-| 	Marina Papenkova	 | 	East Los Angeles College 	 |
 | 	Julio Parra-Martinez	 | 	UCLA	 |
-| 	Vladimir Pastushenko	 | 		 |
 | 	Oli Patane	 | 	CSU Fullerton 	 |
 | 	Lalit A. Patel	 | 		 |
-| 	Tanmoy Paul	 | 	Indian Association for the Cultivation of Science	 |
-| 	Lilit Petrosyan	 | 	Los Angeles Valley College	 |
 | 	Nikodem Poplawski	 | 	University of New Haven	 |
 | 	Achilleas Porfyriadis	 | 	UCSB	 |
-| 	Jonathan Portillo	 | 	Los Angeles Valley College 	 |
 | 	Taylor Ramirez	 | 	Cal State Northridge	 |
 | 	Pratik Rath	 | 	UC Berkeley	 |
 | 	Arun Ravishankar	 | 	University of Arizona	 |
 | 	N.L. Rieger	 | 	UC Irvine	 |
-| 	Maria J. Rodriguez	 | 	Utah State University	 |
 | 	Samuel Rodriguez	 | 	Cal State Fullerton	 |
+| 	Reza Rezaiezadeh Roukerd	 | 	Kansas State University	 |
 | 	Nico Salzetta	 | 	UC Berkeley	 |
-| 	Johan Samsing	 | 	Princeton University	 |
 | 	Eric Sawyer	 | 	UCLA	 |
 | 	Mark Scheel	 | 	Caltech	 |
 | 	Robin Schipper	 | 	Cal State Northridge	 |
 | 	George Schuhmann	 | 	University of Louisville	 |
 | 	Scott Shannon	 | 	Los Angeles Valley College	 |
 | 	Chia-Hsien Shen	 | 	UCLA	 |
-| 	João Silvestre	 | 	Agrupamento de escolas da Lousã	 |
 | 	Ashmeet Singh	 | 	Caltech	 |
 | 	Prabhjot Singh	 | 	Los Angeles Valley College	 |
 | 	Douglas A Singleton	 | 	Cal State Fresno	 |
+| 	Josh Smith	 | 	Cal State Fullerton	 |
 | 	Dave Snead	 | 	Saguarosoft	 |
 | 	Leo Stein	 | 	Caltech	 |
 | 	Stephen Taylor	 | 	Caltech	 |
 | 	Saul A. Teukolsky	 | 	Caltech / Cornell	 |
+| 	Jonathan Thompson	 | 	UC Merced	 |
 | 	Rodger Thompson	 | 	University of Arizona	 |
 | 	Chiara Toldo	 | 	UCSB	 |
 | 	Gabriel Trevino	 | 	UCSB	 |
-| 	Aashana Tripathi	 | 	University of Potsdam	 |
 | 	Ron Tso	 | 	Caltech	 |
 | 	Christos Tzounis	 | 	Cal Poly Pomona	 |
 | 	Vijay Varma	 | 	Caltech	 |
