@@ -27,7 +27,7 @@ tbody tr:hover {background: #ffa366;}
 | 	Riccardo Barbieri	 | 	University of Pavia	 |
 | 	Michael Barton	 | 	Cal State Northridge	 |
 | 	Yoni BenTov	 | 	Caltech	 |
-| 	Beverly K. Berger	 | 	American Physical Society	 |
+| 	Beverly K. Berger	 | 		 |
 | 	Jeffrey Bidler	 | 	Cal State Fullerton	 |
 | 	Simon Birrer	 | 	UCLA	 |
 | 	Don V Black	 | 	American Institute for Research in Science and Technology	 |
